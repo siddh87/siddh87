@@ -31,11 +31,3 @@
 </p>
 
 ⭐️ From <a href="https://www.linkedin.com/in/siddharth-srivastava-42b477251/" target="_blank"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-
-
-
-
-
-📈 My GitHub Stats
-
-![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=siddh87&show_icons=true&theme=dark#gh-dark-mode-only)
